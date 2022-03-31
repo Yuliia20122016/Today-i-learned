@@ -1,4 +1,5 @@
-Команды в Git:
+# Команды в Git:
+
 Создать шаг - git commit,
 Создать новую ветку - git branch (name),
 Переключить на новую ветку - git checkout (name),
